@@ -1,0 +1,1033 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApplication5.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication5.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\css\\plugins\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\css\\plugins\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\css\\plugins\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\css\\plugins\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\css\\plugins\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\css\\plugins\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\css\\plugins\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\css\\plugins\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\css\\plugins\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\css\\plugins\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\css\\plugins\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\css\\plugins\\Flaticond41d.eot"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\css\\plugins\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\css\\plugins\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\css\\plugins\\swiper.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\fonts\\SofiaProBold.woff",
+      "PackagePath": "staticwebassets\\fonts\\SofiaProBold.woff"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\about\\about-1.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\about\\about-2.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\banner_1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\banner_2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-11.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-11.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-12.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-12.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-13.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-13.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-14.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-14.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-15.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-15.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-16.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-16.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\blog_title_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_title_bg.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\brands\\brand1.png",
+      "PackagePath": "staticwebassets\\images\\brands\\brand1.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\brands\\brand2.png",
+      "PackagePath": "staticwebassets\\images\\brands\\brand2.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\brands\\brand3.png",
+      "PackagePath": "staticwebassets\\images\\brands\\brand3.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\brands\\brand4.png",
+      "PackagePath": "staticwebassets\\images\\brands\\brand4.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\brands\\brand5.png",
+      "PackagePath": "staticwebassets\\images\\brands\\brand5.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\brands\\brand6.png",
+      "PackagePath": "staticwebassets\\images\\brands\\brand6.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\brands\\brand7.png",
+      "PackagePath": "staticwebassets\\images\\brands\\brand7.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\cart-item-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cart-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\cart-item-2.jpg",
+      "PackagePath": "staticwebassets\\images\\cart-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\cart-item-3.jpg",
+      "PackagePath": "staticwebassets\\images\\cart-item-3.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\collection_grid_1.jpg",
+      "PackagePath": "staticwebassets\\images\\collection_grid_1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\collection_grid_2.jpg",
+      "PackagePath": "staticwebassets\\images\\collection_grid_2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\collection_grid_3.jpg",
+      "PackagePath": "staticwebassets\\images\\collection_grid_3.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\deal_timer_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\deal_timer_bg.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\home\\demo10\\slider_bg.png",
+      "PackagePath": "staticwebassets\\images\\home\\demo10\\slider_bg.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\home\\demo1\\product-0-1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\demo1\\product-0-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\home\\demo1\\product-1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\demo1\\product-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\home\\demo1\\product-2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\demo1\\product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\home\\demo1\\product-3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\demo1\\product-3-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\home\\demo3\\slider_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\demo3\\slider_bg.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\instagram\\insta1.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\instagram\\insta10.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta10.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\instagram\\insta11.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta11.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\instagram\\insta12.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta12.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\instagram\\insta2.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\instagram\\insta3.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta3.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\instagram\\insta4.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta4.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\instagram\\insta5.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta5.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\instagram\\insta6.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta6.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\instagram\\insta7.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta7.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\instagram\\insta8.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta8.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\instagram\\insta9.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\insta9.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\lookbook\\lookbook-1.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook\\lookbook-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\lookbook\\lookbook-2.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook\\lookbook-2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\lookbook\\lookbook-3.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook\\lookbook-3.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\lookbook\\lookbook-4.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook\\lookbook-4.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\lookbook\\lookbook-5.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook\\lookbook-5.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\lookbook\\lookbook-6.jpg",
+      "PackagePath": "staticwebassets\\images\\lookbook\\lookbook-6.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\mega-menu-item.jpg",
+      "PackagePath": "staticwebassets\\images\\mega-menu-item.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\nav-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\nav-bg.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\newsletter-popup.jpg",
+      "PackagePath": "staticwebassets\\images\\newsletter-popup.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\pattern_bg.png",
+      "PackagePath": "staticwebassets\\images\\pattern_bg.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\payment-options.png",
+      "PackagePath": "staticwebassets\\images\\payment-options.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-17-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-17-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-17-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-17-2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-18-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-18-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-19-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-19-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-19-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-19-2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-19-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-19-3.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-20-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-20-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-20-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-20-2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-21-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-21-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-21-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-21-2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-22-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-22-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-22-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-22-2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-22-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-22-3.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-23-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-23-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-24-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-24-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-25-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-25-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-26-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-26-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-26-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-26-2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-27-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-27-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-27-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-27-2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-28-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-28-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-28-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-28-2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-29-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-29-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-29-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-29-2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-30-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-30-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-31-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-31-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-32-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-32-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-33-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-33-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-35-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-35-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-36-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-36-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-37-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-37-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-38-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-38-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-39-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-39-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-40-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-40-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-41-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-41-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product-42-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-42-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_0-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_0-10.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-10.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_0-11.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-11.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_0-12.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-12.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_0-13.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-13.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_0-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_0-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-3.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_0-4.png",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-4.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_0-5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-5.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_0-6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-6.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_0-7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-7.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_0-8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-8.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_0-9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0-9.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_0.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_1-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_10-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_10-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_10.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_10.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_11-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_11-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_11.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_11.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_12-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_12-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_12.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_12.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_13-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_13-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_13.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_13.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_14-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_14-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_14.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_14.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_15-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_15-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_15.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_15.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_16-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_16-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_16.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_16.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_2-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_3-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_3.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_4-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_4.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_5-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_5.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_6-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_6-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_6.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_7-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_7-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_7.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_8-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_8-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_8.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_9-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_9-1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\product_9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_9.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\quickview_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quickview_1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\quickview_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quickview_2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\quickview_3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quickview_3.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\quickview_4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quickview_4.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\swatch_0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\swatch_0.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\swatch_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\swatch_1.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\products\\swatch_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\swatch_2.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\shop\\category-item1.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item1.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\shop\\category-item2.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item2.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\shop\\category-item3.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item3.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\shop\\category-item4.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item4.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\shop\\category-item5.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item5.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\shop\\category-item6.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item6.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\shop\\category-item7.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item7.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\shop\\category-item8.png",
+      "PackagePath": "staticwebassets\\images\\shop\\category-item8.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\shop\\shop_banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\shop_banner3.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\shop\\shop_banner6.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\shop_banner6.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\shop\\shop_banner8.png",
+      "PackagePath": "staticwebassets\\images\\shop\\shop_banner8.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\shop\\shop_banner_2.png",
+      "PackagePath": "staticwebassets\\images\\shop\\shop_banner_2.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\shop\\shop_banner_character1.png",
+      "PackagePath": "staticwebassets\\images\\shop\\shop_banner_character1.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\size-guide.jpg",
+      "PackagePath": "staticwebassets\\images\\size-guide.jpg"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\slideshow-character1.png",
+      "PackagePath": "staticwebassets\\images\\slideshow-character1.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\slideshow-character2.png",
+      "PackagePath": "staticwebassets\\images\\slideshow-character2.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\images\\slideshow-pattern.png",
+      "PackagePath": "staticwebassets\\images\\slideshow-pattern.png"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\js\\details-disclosure.js",
+      "PackagePath": "staticwebassets\\js\\details-disclosure.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\js\\googlemap-setting.js",
+      "PackagePath": "staticwebassets\\js\\googlemap-setting.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\js\\plugins\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\js\\plugins\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\js\\plugins\\countdown.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\countdown.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\js\\plugins\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\js\\plugins\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\js\\plugins\\swiper.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\js\\share.js",
+      "PackagePath": "staticwebassets\\js\\share.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Yazılım C\\WebApplication5\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplication5.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplication5.props",
+      "PackagePath": "build\\WebApplication5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication5.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplication5.props",
+      "PackagePath": "buildTransitive\\WebApplication5.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
