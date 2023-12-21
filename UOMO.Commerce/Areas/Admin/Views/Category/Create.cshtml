@@ -1,0 +1,9 @@
+﻿@model Categories
+
+<form  asp-controller="Category" asp-action="Create" method="post">
+    <div class="mb-3">
+        <label for="exampleFormControlImput1" class="form-label">Category Name</label>
+        <input asp-for="Name" type="text" class="form-control">
+    </div>
+   <button class="btn btn-success">Submit</button>
+</form>
