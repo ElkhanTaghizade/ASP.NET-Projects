@@ -1,0 +1,49 @@
+﻿@model List<Categories>
+
+@section Style{
+    <link rel="stylesheet" href="~/Admin/css/lib/datatable/dataTables.bootstrap.min.css">
+}
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <strong class="card-title">Data Table</strong>
+            </div>
+            <div class="card-body">
+                <a asp-controller="Category" asp-action="Create" class="btn btn-danger"> Add new Category"</a> 
+                <table id="bootstrap-data-table" class="table table-striped table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Category Name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                        <tr>
+                            <td>@item.Name</td>
+                            <td>@item.Id</td>
+                            
+                        </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+@section Script{
+    <script src="~/Admin/js/lib/data-table/datatables.min.js"></script>
+    <script src="~/Admin/js/lib/data-table/dataTables.bootstrap.min.js"></script>
+    <script src="~/Admin/js/lib/data-table/dataTables.buttons.min.js"></script>
+    <script src="~/Admin/js/lib/data-table/buttons.bootstrap.min.js"></script>
+    <script src="~/Admin/js/lib/data-table/jszip.min.js"></script>
+    <script src="~/Admin/js/lib/data-table/vfs_fonts.js"></script>
+    <script src="~/Admin/js/lib/data-table/buttons.html5.min.js"></script>
+    <script src="~/Admin/js/lib/data-table/buttons.print.min.js"></script>
+    <script src="~/Admin/js/lib/data-table/buttons.colVis.min.js"></script>
+    <script src="~/Admin/js/init/datatables-init.js"></script>
+}
