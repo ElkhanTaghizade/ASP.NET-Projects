@@ -19,6 +19,7 @@ namespace WebApplication5.Areas.Admin.Controllers
         [HttpGet]
         public IActionResult Create()
         {
+          
             return View();
         }
         [HttpPost]
@@ -28,6 +29,30 @@ namespace WebApplication5.Areas.Admin.Controllers
             appDbContext.SaveChanges();
             return RedirectToAction("Index");
         }
+        [HttpGet]
+        public IActionResult Edit(Categories categories)
+        {
+            var oldcategory=appDbContext.Categories.Find(categories.Id);
+            if(oldcategory != null)
+            {
+                oldcategory.Name = categories.Name;
+                appDbContext.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return NotFound();
+        }
 
+        [HttpGet]
+        public IActionResult Delete(int Id)
+        {
+            var oldcategory = appDbContext.Categories.Find(Id);
+            if (oldcategory!=null)
+            {
+                appDbContext.Categories.Remove(oldcategory);
+                appDbContext.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return NotFound();
+        }
     }
 }
