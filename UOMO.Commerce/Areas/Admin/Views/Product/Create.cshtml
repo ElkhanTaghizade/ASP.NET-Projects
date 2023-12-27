@@ -6,6 +6,7 @@
         <img id="img-preview" src="https://ami-sni.com/wp-content/themes/consultix/images/no-image-found-360x250.png"/>
         <div>
             <input type="file" asp-for=File accept="image/*" onchange="readURL(this)" />
+            <span asp-validation-for="File" class="color-red"></span>
         </div>
     </div>
     <div class="mb-3">
@@ -13,13 +14,13 @@
     </div>
     <div>
         <input asp-for="Name" type="text" class="form-control">
-
+        <span asp-validation-for="Name" class="color-red"></span>
     </div>
     <label for="exampleFormControlImput1" class="form-label">Price</label>
 
     <div>
         <input asp-for="Price" type="text" class="form-control">
-
+        <span asp-validation-for="Price" class="color-red"></span>
     </div>
     <label for="exampleFormControlImput1" class="form-label">Category</label>
 
@@ -31,6 +32,7 @@
              <option value="@item.Id"> @item.Name </option>
         }
         </select>
+        <span asp-validation-for="Categories" class="color-red"></span>
     </div>
     <button class="btn btn-success">Submit</button>
 </form>
