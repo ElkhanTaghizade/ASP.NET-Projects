@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebApplication5.App;
+using WebApplication5.Extensions;
 using WebApplication5.Models;
 
 namespace WebApplication5.Areas.Admin.Controllers
@@ -25,10 +26,26 @@ namespace WebApplication5.Areas.Admin.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Create(Products product)
+        public async Task<IActionResult> Create(Products product)
         {
-            appDbContext.Products.Add(product);
-            appDbContext.SaveChanges();
+            ViewBag.Category = appDbContext.Categories.ToList();
+
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
+            if (FileExtension.IsImage(product.File))
+            {
+                string imagename=await FileExtension.SaveAsync(product.File, "products");
+                product.ImageUrl = imagename;
+                appDbContext.Products.Add(product);
+                appDbContext.SaveChanges();
+            }
+            else 
+            {
+                ModelState.AddModelError("Error","Wrong format");
+                return View();
+            }
             return RedirectToAction("Index");
         }
         [HttpGet]
