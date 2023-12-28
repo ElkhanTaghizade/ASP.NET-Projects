@@ -33,8 +33,8 @@
                             <a href="~/Home/blog_single">@item.Name</a>
                         </div>
                         <div class="blog-grid__item-content">
-                            <p>Midst one brought greater also morning green saying had good. Open stars day let over gathered, grass face one every light of under.</p>
-                            <a href="~/Home/blog_single" class="readmore-link">Continue Reading</a>
+                            <p>@item.Context</p>
+                            <a asp-controller="Home" asp-route-id="@item.Id" asp-action="blog_details" class="readmore-link">Continue Reading</a>
                         </div>
                     </div>
                 </div>
