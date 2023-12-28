@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System;
 using System.Diagnostics;
 using WebApplication5.App;
 using WebApplication5.Models;
@@ -20,6 +21,10 @@ namespace WebApplication5.Controllers
         {
             List<Products> products = await _appdbContext.Products.Include(x=>x.Categories).ToListAsync();
             return View(products);
+        }
+        public IActionResult Index()
+        {
+            return View(_appdbContext.Slider.ToList());
         }
         public IActionResult login_register()
         {
@@ -52,11 +57,17 @@ namespace WebApplication5.Controllers
         }
         public IActionResult blog_list2()
         {
-            return View();
+            List<Products> product = _appdbContext.Products.Include(x => x.Categories).ToList();
+            return View(product);
         }
         public IActionResult blog_single()
         {
             return View();
+        }
+        public IActionResult blog_details(int Id)
+        {
+          var product=_appdbContext.Products.FirstOrDefault(x=>x.Id == Id);
+            return View(product);
         }
         public IActionResult coming_soon()
         {
