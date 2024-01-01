@@ -4,6 +4,7 @@ using System;
 using System.Diagnostics;
 using WebApplication5.App;
 using WebApplication5.Models;
+using WebApplication5.ViewModel;
 
 namespace WebApplication5.Controllers
 {
@@ -24,7 +25,12 @@ namespace WebApplication5.Controllers
         }
         public IActionResult Index()
         {
-            return View(_appdbContext.Slider.ToList());
+            HomeVM homeVM = new HomeVM()
+            {
+                Slider=_appdbContext.Slider.ToList(),
+                Products=_appdbContext.Products.ToList()
+            };
+            return View(homeVM);
         }
         public IActionResult login_register()
         {
